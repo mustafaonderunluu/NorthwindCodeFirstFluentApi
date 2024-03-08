@@ -1,0 +1,12 @@
+D:\Proje\C#\NorthwindEfCodeFirstFluentApi\NorthwindEfCodeFirstFluentApi\bin\Debug\NorthwindEfCodeFirstFluentApi.exe.config
+D:\Proje\C#\NorthwindEfCodeFirstFluentApi\NorthwindEfCodeFirstFluentApi\bin\Debug\NorthwindEfCodeFirstFluentApi.exe
+D:\Proje\C#\NorthwindEfCodeFirstFluentApi\NorthwindEfCodeFirstFluentApi\bin\Debug\NorthwindEfCodeFirstFluentApi.pdb
+D:\Proje\C#\NorthwindEfCodeFirstFluentApi\NorthwindEfCodeFirstFluentApi\bin\Debug\EntityFramework.dll
+D:\Proje\C#\NorthwindEfCodeFirstFluentApi\NorthwindEfCodeFirstFluentApi\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proje\C#\NorthwindEfCodeFirstFluentApi\NorthwindEfCodeFirstFluentApi\bin\Debug\EntityFramework.xml
+D:\Proje\C#\NorthwindEfCodeFirstFluentApi\NorthwindEfCodeFirstFluentApi\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proje\C#\NorthwindEfCodeFirstFluentApi\NorthwindEfCodeFirstFluentApi\obj\Debug\NorthwindEfCodeFirstFluentApi.csproj.AssemblyReference.cache
+D:\Proje\C#\NorthwindEfCodeFirstFluentApi\NorthwindEfCodeFirstFluentApi\obj\Debug\NorthwindEfCodeFirstFluentApi.csproj.CoreCompileInputs.cache
+D:\Proje\C#\NorthwindEfCodeFirstFluentApi\NorthwindEfCodeFirstFluentApi\obj\Debug\Northwin.364820AE.Up2Date
+D:\Proje\C#\NorthwindEfCodeFirstFluentApi\NorthwindEfCodeFirstFluentApi\obj\Debug\NorthwindEfCodeFirstFluentApi.exe
+D:\Proje\C#\NorthwindEfCodeFirstFluentApi\NorthwindEfCodeFirstFluentApi\obj\Debug\NorthwindEfCodeFirstFluentApi.pdb
